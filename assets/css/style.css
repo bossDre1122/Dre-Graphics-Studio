@@ -8113,7 +8113,8 @@ body.template-color-1 {
   display: inline-block; }
   .logo a img {
     transition: 0.3s; 
-    width: 50px;
+    width: 100px;
+	  height: 100px;
 	
     
 }
